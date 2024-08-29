@@ -9,11 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-<<<<<<< Updated upstream
-    "@clerk/nextjs": "^5.3.3",
-=======
     "@clerk/nextjs": "^5.3.6",
->>>>>>> Stashed changes
     "@prisma/client": "^5.18.0",
     "next": "14.2.5",
     "prisma": "^5.18.0",
@@ -27,3 +23,4 @@
     "typescript": "^5"
   }
 }
+
